@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "package": "^1.0.1"
+  },
+  "name": "coureseraangularmodule3assgn",
+  "version": "1.0.0",
+  "main": "angular.min.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
